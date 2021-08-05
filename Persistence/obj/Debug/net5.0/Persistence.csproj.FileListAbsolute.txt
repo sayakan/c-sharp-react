@@ -1,0 +1,15 @@
+/Users/sayaka/projects/c-sharp-react/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/sayaka/projects/c-sharp-react/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/sayaka/projects/c-sharp-react/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/sayaka/projects/c-sharp-react/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/sayaka/projects/c-sharp-react/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/sayaka/projects/c-sharp-react/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/sayaka/projects/c-sharp-react/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/Users/sayaka/projects/c-sharp-react/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sayaka/projects/c-sharp-react/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/sayaka/projects/c-sharp-react/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/sayaka/projects/c-sharp-react/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/sayaka/projects/c-sharp-react/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/sayaka/projects/c-sharp-react/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/sayaka/projects/c-sharp-react/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/sayaka/projects/c-sharp-react/Persistence/obj/Debug/net5.0/Persistence.pdb

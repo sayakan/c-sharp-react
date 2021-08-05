@@ -1,0 +1,12 @@
+/Users/sayaka/projects/c-sharp-react/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/sayaka/projects/c-sharp-react/Domain/bin/Debug/net5.0/Domain.dll
+/Users/sayaka/projects/c-sharp-react/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/sayaka/projects/c-sharp-react/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/sayaka/projects/c-sharp-react/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/sayaka/projects/c-sharp-react/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sayaka/projects/c-sharp-react/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/sayaka/projects/c-sharp-react/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/sayaka/projects/c-sharp-react/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/sayaka/projects/c-sharp-react/Domain/obj/Debug/net5.0/Domain.dll
+/Users/sayaka/projects/c-sharp-react/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/sayaka/projects/c-sharp-react/Domain/obj/Debug/net5.0/Domain.pdb
