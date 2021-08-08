@@ -59,3 +59,7 @@
 /Users/sayaka/projects/c-sharp-react/API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/sayaka/projects/c-sharp-react/API/bin/Debug/net5.0/Humanizer.dll
 /Users/sayaka/projects/c-sharp-react/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sayaka/projects/c-sharp-react/API/bin/Debug/net5.0/MediatR.dll
+/Users/sayaka/projects/c-sharp-react/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/sayaka/projects/c-sharp-react/API/bin/Debug/net5.0/AutoMapper.dll
+/Users/sayaka/projects/c-sharp-react/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
